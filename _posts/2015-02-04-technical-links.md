@@ -15,7 +15,7 @@ mathjax: null
 featured: true
 published: true
 ---
-> :warning: **Java 8** is mandatory for you to install HEADS IDE
+> **Java 8** is mandatory for you to install HEADS IDE
 
 * **Windows**
   * [HEADS IDE (x86_64)](http://coreff5.istic.univ-rennes1.fr/jenkins/job/headside/ws/products.minimal/target/products/heads_ide-win32.win32.x86.zip)
