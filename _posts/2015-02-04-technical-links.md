@@ -15,7 +15,9 @@ mathjax: null
 featured: true
 published: true
 ---
-> **Java 8** is mandatory for you to install HEADS IDE
+### Download HEADS IDE
+
+> **Java 8** is mandatory
 
 * **Windows**
   * [HEADS IDE (x86_64)](http://coreff5.istic.univ-rennes1.fr/jenkins/job/headside/ws/products.minimal/target/products/heads_ide-win32.win32.x86.zip)
@@ -27,7 +29,7 @@ published: true
   * [HEADS IDE](http://coreff5.istic.univ-rennes1.fr/jenkins/job/headside/ws/products.minimal/target/products/heads_ide-macosx.cocoa.x86_64.zip)
 
 
-* **Other links**
+### Other links
   * [Tutorials](https://github.com/HEADS-project/training)
   * [Kevoree JS](https://github.com/kevoree/kevoree-js)
   * [Kevoree Java](http://kevoree.github.io/kevoree-book/)
