@@ -20,8 +20,8 @@ published: true
 > **Java 8** is mandatory
 
 * **Windows**
-  * [HEADS IDE (x86_64)](http://coreff5.istic.univ-rennes1.fr/jenkins/job/headside/ws/products.minimal/target/products/heads_ide-win32.win32.x86.zip)
-  * [HEADS IDE (x86)](http://coreff5.istic.univ-rennes1.fr/jenkins/job/headside/ws/products.minimal/target/products/heads_ide-win32.win32.x86_64.zip)
+  * [HEADS IDE (x86_64)](http://coreff5.istic.univ-rennes1.fr/jenkins/job/headside/ws/products.minimal/target/products/heads_ide-win32.win32.x86_64.zip)
+  * [HEADS IDE (x86)](http://coreff5.istic.univ-rennes1.fr/jenkins/job/headside/ws/products.minimal/target/products/heads_ide-win32.win32.x86.zip)
 * **Linux**
   * [HEADS IDE (x86_64)](http://coreff5.istic.univ-rennes1.fr/jenkins/job/headside/ws/products.minimal/target/products/heads_ide-linux.gtk.x86_64.zip)
   * [HEADS IDE (x86)](http://coreff5.istic.univ-rennes1.fr/jenkins/job/headside/ws/products.minimal/target/products/heads_ide-linux.gtk.x86.zip)
